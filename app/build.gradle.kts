@@ -15,7 +15,7 @@ ksp {
 }
 
 android {
-    namespace = "com.cleansweep"
+    namespace = "com.sadsha.cleansweep"
     compileSdk = 36
 
     kotlin {
@@ -35,7 +35,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.cleansweep"
+        applicationId = "com.sadsha.cleansweep"
         minSdk = 29
         targetSdk = 36
         versionCode = 2
@@ -85,7 +85,7 @@ android {
 androidComponents {
     onVariants { variant ->
         variant.outputs.forEach { output ->
-            val appName = "cleansweep"
+            val appName = "sadsha-cleansweep"
             val versionName = output.versionName.get()
             val buildType = variant.buildType
 
