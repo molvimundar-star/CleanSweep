@@ -1,13 +1,15 @@
-# CleanSweep
+# SadSha CleanSweep
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/LoopOtto/cleansweep)](https://github.com/LoopOtto/cleansweep/issues)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/LoopOtto/cleansweep)](https://github.com/LoopOtto/cleansweep/releases)
+[![GitHub issues](https://img.shields.io/github/issues/molvimundar-star/CleanSweep)](https://github.com/molvimundar-star/CleanSweep/issues)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/molvimundar-star/CleanSweep)](https://github.com/molvimundar-star/CleanSweep/releases)
 
 **Tired of a cluttered photo gallery? Get organized with a swipe!**
 
 CleanSweep is a powerful and private application for Android that helps you reclaim storage space and organize your photos and videos with a fun, simple, Tinder-like interface. Swipe right to keep, swipe left to delete. It's that easy.
 
 Best of all, **CleanSweep is 100% offline.** Your files and your data never leave your device, ensuring your memories remain private.
+
+**SadSha CleanSweep** is the SadSha-branded build of CleanSweep, originally created by LoopOtto ([upstream project](https://github.com/LoopOtto/cleansweep)). It is free software under the GNU General Public License v3.0 — see the [LICENSE](LICENSE) file.
 
 ## Key Features
 
@@ -59,7 +61,7 @@ We take your privacy seriously. CleanSweep is designed from the ground up to res
 ## Getting Started
 
 1.  **Requirements:** You'll need a device running **Android 10 or newer**.
-2.  **Installation:** Download the latest release from the [Releases page](https://github.com/LoopOtto/cleansweep/releases).
+2.  **Installation:** Download the latest release from the [Releases page](https://github.com/molvimundar-star/CleanSweep/releases).
 3.  **Onboarding:** The first time you open CleanSweep, a helpful tutorial will walk you through all the features and gestures.
 
 ## Permissions Explained
@@ -96,5 +98,7 @@ If you enjoy using CleanSweep and want to support its development, check out our
 ## License
 
 Copyright (c) 2025 LoopOtto.
+
+SadSha rebrand: application ID `com.sadsha.cleansweep`, published by SadSha from this repository.
 
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for the full license text.
