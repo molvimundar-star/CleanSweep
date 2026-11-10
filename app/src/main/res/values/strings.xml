@@ -521,10 +521,9 @@
     <string name="app_version_copied">App version copied: %1$s</string>
     <string name="about_cleansweep_title">About CleanSweep</string>
     <string name="about_cleansweep_desc">Learn more about CleanSweep</string>
+    <string name="about_brand_line">CleanSweep by SadSha</string>
     <string name="github_title">GitHub</string>
-    <string name="github_summary">github.com/LoopOtto/CleanSweep</string>
-    <string name="gitlab_title">GitLab</string>
-    <string name="gitlab_summary">gitlab.com/LoopOtto/CleanSweep (read-only mirror)</string>
+    <string name="github_summary">github.com/molvimundar-star/CleanSweep</string>
     <string name="open_source_licenses_title">Open-Source Licenses</string>
     <string name="open_source_licenses_desc">View open-source licenses</string>
 

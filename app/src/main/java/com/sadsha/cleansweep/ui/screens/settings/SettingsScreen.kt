@@ -721,16 +721,6 @@ fun SettingsScreen(
                                 onClick = { uriHandler.openUri("https://$url") }
                             )
                         },
-                        SettingContent(titleRes = R.string.gitlab_summary, keywords = listOf("mirror")) {
-                            val uriHandler = LocalUriHandler.current
-                            // Removing "(read-only mirror)" suffix for URL
-                            val url = stringResource(R.string.gitlab_summary).substringBefore(" ")
-                            SettingsItem(
-                                title = stringResource(R.string.gitlab_title),
-                                summary = stringResource(R.string.gitlab_summary),
-                                onClick = { uriHandler.openUri("https://$url") }
-                            )
-                        },
                         SettingContent(titleRes = R.string.open_source_licenses_title, keywords = listOf("libraries")) {
                             SettingsItem(
                                 title = stringResource(R.string.open_source_licenses_title),
@@ -830,7 +820,12 @@ fun SettingsScreen(
         AppDialog(
             onDismissRequest = { showAboutSortMediaDialog = false },
             title = { Text(stringResource(R.string.about_cleansweep_title), style = MaterialTheme.typography.headlineSmall) },
-            text = { Text(stringResource(R.string.version_title) + ": ${viewModel.appVersion}", style = MaterialTheme.typography.bodyLarge) },
+            text = {
+                Column {
+                    Text(stringResource(R.string.about_brand_line), style = MaterialTheme.typography.bodyLarge)
+                    Text(stringResource(R.string.version_title) + ": ${viewModel.appVersion}", style = MaterialTheme.typography.bodyLarge)
+                }
+            },
             buttons = {
                 TextButton(onClick = { showAboutSortMediaDialog = false }) {
                     Text(stringResource(R.string.close))
