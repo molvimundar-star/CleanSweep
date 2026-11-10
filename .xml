@@ -3,8 +3,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/CleanSweepApp.kt</file>
   <line>28</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep</package>
-  <entry_point TYPE="class" FQNAME="com.cleansweep.CleanSweepApp" />
+  <package>com.sadsha.cleansweep</package>
+  <entry_point TYPE="class" FQNAME="com.sadsha.cleansweep.CleanSweepApp" />
   <language>kotlin</language>
   <offset>0</offset>
   <length>15</length>
@@ -20,8 +20,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/data/db/CleanSweepDatabase.kt</file>
   <line>40</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.data.db</package>
-  <entry_point TYPE="class" FQNAME="com.cleansweep.data.db.CleanSweepDatabase" />
+  <package>com.sadsha.cleansweep.data.db</package>
+  <entry_point TYPE="class" FQNAME="com.sadsha.cleansweep.data.db.CleanSweepDatabase" />
   <language>kotlin</language>
   <offset>0</offset>
   <length>10</length>
@@ -37,8 +37,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/data/db/converter/Converters.kt</file>
   <line>24</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.data.db.converter</package>
-  <entry_point TYPE="class" FQNAME="com.cleansweep.data.db.converter.Converters" />
+  <package>com.sadsha.cleansweep.data.db.converter</package>
+  <entry_point TYPE="class" FQNAME="com.sadsha.cleansweep.data.db.converter.Converters" />
   <language>kotlin</language>
   <offset>0</offset>
   <length>18</length>
@@ -54,8 +54,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/data/db/converter/Converters.kt</file>
   <line>27</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.data.db.converter</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.data.db.converter.Converters java.lang.String fromStringList(java.util.List&lt;java.lang.String&gt; list)" />
+  <package>com.sadsha.cleansweep.data.db.converter</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.data.db.converter.Converters java.lang.String fromStringList(java.util.List&lt;java.lang.String&gt; list)" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>14</length>
@@ -71,8 +71,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/data/db/converter/Converters.kt</file>
   <line>32</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.data.db.converter</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.data.db.converter.Converters java.util.List&lt;java.lang.String&gt; toStringList(java.lang.String data)" />
+  <package>com.sadsha.cleansweep.data.db.converter</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.data.db.converter.Converters java.util.List&lt;java.lang.String&gt; toStringList(java.lang.String data)" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>14</length>
@@ -88,8 +88,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/data/db/converter/Converters.kt</file>
   <line>37</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.data.db.converter</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.data.db.converter.Converters java.lang.String fromUri(android.net.Uri uri)" />
+  <package>com.sadsha.cleansweep.data.db.converter</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.data.db.converter.Converters java.lang.String fromUri(android.net.Uri uri)" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>14</length>
@@ -105,8 +105,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/data/db/converter/Converters.kt</file>
   <line>42</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.data.db.converter</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.data.db.converter.Converters android.net.Uri toUri(java.lang.String uriString)" />
+  <package>com.sadsha.cleansweep.data.db.converter</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.data.db.converter.Converters android.net.Uri toUri(java.lang.String uriString)" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>14</length>
@@ -122,8 +122,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/data/model/MediaItem.kt</file>
   <line>25</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.data.model</package>
-  <entry_point TYPE="class" FQNAME="com.cleansweep.data.model.MediaItem" />
+  <package>com.sadsha.cleansweep.data.model</package>
+  <entry_point TYPE="class" FQNAME="com.sadsha.cleansweep.data.model.MediaItem" />
   <language>kotlin</language>
   <offset>0</offset>
   <length>10</length>
@@ -139,8 +139,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/data/repository/DirectMediaRepositoryImpl.kt</file>
   <line>63</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.data.repository</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.data.repository.DirectMediaRepositoryImpl DirectMediaRepositoryImpl(android.content.Context context, coil.ImageLoader imageLoader, com.cleansweep.data.db.dao.FolderDetailsDao folderDetailsDao, com.cleansweep.data.repository.PreferencesRepository preferencesRepository, kotlinx.coroutines.CoroutineScope externalScope, com.cleansweep.util.FileOperationsHelper fileOperationsHelper, com.cleansweep.domain.bus.FolderUpdateEventBus folderUpdateEventBus, com.cleansweep.domain.bus.AppLifecycleEventBus appLifecycleEventBus)" />
+  <package>com.sadsha.cleansweep.data.repository</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.data.repository.DirectMediaRepositoryImpl DirectMediaRepositoryImpl(android.content.Context context, coil.ImageLoader imageLoader, com.sadsha.cleansweep.data.db.dao.FolderDetailsDao folderDetailsDao, com.sadsha.cleansweep.data.repository.PreferencesRepository preferencesRepository, kotlinx.coroutines.CoroutineScope externalScope, com.sadsha.cleansweep.util.FileOperationsHelper fileOperationsHelper, com.sadsha.cleansweep.domain.bus.FolderUpdateEventBus folderUpdateEventBus, com.sadsha.cleansweep.domain.bus.AppLifecycleEventBus appLifecycleEventBus)" />
   <language>kotlin</language>
   <offset>32</offset>
   <length>20</length>
@@ -156,8 +156,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/data/repository/PreferencesRepository.kt</file>
   <line>110</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.data.repository</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.data.repository.PreferencesRepository PreferencesRepository(android.content.Context context)" />
+  <package>com.sadsha.cleansweep.data.repository</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.data.repository.PreferencesRepository PreferencesRepository(android.content.Context context)" />
   <language>kotlin</language>
   <offset>28</offset>
   <length>20</length>
@@ -173,8 +173,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/di/AppModule.kt</file>
   <line>39</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.di</package>
-  <entry_point TYPE="class" FQNAME="com.cleansweep.di.AppModule" />
+  <package>com.sadsha.cleansweep.di</package>
+  <entry_point TYPE="class" FQNAME="com.sadsha.cleansweep.di.AppModule" />
   <language>kotlin</language>
   <offset>0</offset>
   <length>7</length>
@@ -190,8 +190,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/di/AppModule.kt</file>
   <line>53</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.di</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.di.AppModule kotlinx.coroutines.CoroutineScope provideApplicationScope()" />
+  <package>com.sadsha.cleansweep.di</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.di.AppModule kotlinx.coroutines.CoroutineScope provideApplicationScope()" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>9</length>
@@ -207,8 +207,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/di/AppModule.kt</file>
   <line>61</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.di</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.di.AppModule coil.ImageLoader provideImageLoader(android.content.Context context)" />
+  <package>com.sadsha.cleansweep.di</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.di.AppModule coil.ImageLoader provideImageLoader(android.content.Context context)" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>9</length>
@@ -224,8 +224,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/di/AppModule.kt</file>
   <line>69</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.di</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.di.AppModule coil.ImageLoader provideGifImageLoader(android.content.Context context)" />
+  <package>com.sadsha.cleansweep.di</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.di.AppModule coil.ImageLoader provideGifImageLoader(android.content.Context context)" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>52</length>
@@ -241,8 +241,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/di/AppModule.kt</file>
   <line>82</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.di</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.di.AppModule com.cleansweep.domain.bus.FileModificationEventBus provideFileModificationEventBus()" />
+  <package>com.sadsha.cleansweep.di</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.di.AppModule com.sadsha.cleansweep.domain.bus.FileModificationEventBus provideFileModificationEventBus()" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>9</length>
@@ -258,8 +258,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/di/AppModule.kt</file>
   <line>88</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.di</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.di.AppModule androidx.work.WorkManager provideWorkManager(android.content.Context context)" />
+  <package>com.sadsha.cleansweep.di</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.di.AppModule androidx.work.WorkManager provideWorkManager(android.content.Context context)" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>9</length>
@@ -275,8 +275,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/di/AppModule.kt</file>
   <line>94</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.di</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.di.AppModule com.cleansweep.util.ProactiveIndexer provideProactiveIndexer(android.content.Context context)" />
+  <package>com.sadsha.cleansweep.di</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.di.AppModule com.sadsha.cleansweep.util.ProactiveIndexer provideProactiveIndexer(android.content.Context context)" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>9</length>
@@ -292,8 +292,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/di/DatabaseModule.kt</file>
   <line>36</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.di</package>
-  <entry_point TYPE="class" FQNAME="com.cleansweep.di.DatabaseModule" />
+  <package>com.sadsha.cleansweep.di</package>
+  <entry_point TYPE="class" FQNAME="com.sadsha.cleansweep.di.DatabaseModule" />
   <language>kotlin</language>
   <offset>0</offset>
   <length>7</length>
@@ -309,8 +309,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/di/DatabaseModule.kt</file>
   <line>40</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.di</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.di.DatabaseModule com.cleansweep.data.db.CleanSweepDatabase provideDatabase(android.content.Context context)" />
+  <package>com.sadsha.cleansweep.di</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.di.DatabaseModule com.sadsha.cleansweep.data.db.CleanSweepDatabase provideDatabase(android.content.Context context)" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>9</length>
@@ -326,8 +326,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/di/DatabaseModule.kt</file>
   <line>53</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.di</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.di.DatabaseModule com.cleansweep.data.db.dao.FileSignatureDao provideFileSignatureDao(com.cleansweep.data.db.CleanSweepDatabase database)" />
+  <package>com.sadsha.cleansweep.di</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.di.DatabaseModule com.sadsha.cleansweep.data.db.dao.FileSignatureDao provideFileSignatureDao(com.sadsha.cleansweep.data.db.CleanSweepDatabase database)" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>9</length>
@@ -343,8 +343,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/di/DatabaseModule.kt</file>
   <line>59</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.di</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.di.DatabaseModule com.cleansweep.data.db.dao.PHashDao providePHashDao(com.cleansweep.data.db.CleanSweepDatabase database)" />
+  <package>com.sadsha.cleansweep.di</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.di.DatabaseModule com.sadsha.cleansweep.data.db.dao.PHashDao providePHashDao(com.sadsha.cleansweep.data.db.CleanSweepDatabase database)" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>9</length>
@@ -360,8 +360,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/di/DatabaseModule.kt</file>
   <line>65</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.di</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.di.DatabaseModule com.cleansweep.data.db.dao.FolderDetailsDao provideFolderDetailsDao(com.cleansweep.data.db.CleanSweepDatabase database)" />
+  <package>com.sadsha.cleansweep.di</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.di.DatabaseModule com.sadsha.cleansweep.data.db.dao.FolderDetailsDao provideFolderDetailsDao(com.sadsha.cleansweep.data.db.CleanSweepDatabase database)" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>9</length>
@@ -377,8 +377,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/di/DatabaseModule.kt</file>
   <line>71</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.di</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.di.DatabaseModule com.cleansweep.data.db.dao.UnreadableFileCacheDao provideUnreadableFileCacheDao(com.cleansweep.data.db.CleanSweepDatabase database)" />
+  <package>com.sadsha.cleansweep.di</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.di.DatabaseModule com.sadsha.cleansweep.data.db.dao.UnreadableFileCacheDao provideUnreadableFileCacheDao(com.sadsha.cleansweep.data.db.CleanSweepDatabase database)" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>9</length>
@@ -394,8 +394,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/di/DatabaseModule.kt</file>
   <line>77</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.di</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.di.DatabaseModule com.cleansweep.data.db.dao.ScanResultCacheDao provideScanResultCacheDao(com.cleansweep.data.db.CleanSweepDatabase database)" />
+  <package>com.sadsha.cleansweep.di</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.di.DatabaseModule com.sadsha.cleansweep.data.db.dao.ScanResultCacheDao provideScanResultCacheDao(com.sadsha.cleansweep.data.db.CleanSweepDatabase database)" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>9</length>
@@ -411,8 +411,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/di/DatabaseModule.kt</file>
   <line>83</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.di</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.di.DatabaseModule com.cleansweep.data.db.dao.SimilarityDenialDao provideSimilarityDenialDao(com.cleansweep.data.db.CleanSweepDatabase database)" />
+  <package>com.sadsha.cleansweep.di</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.di.DatabaseModule com.sadsha.cleansweep.data.db.dao.SimilarityDenialDao provideSimilarityDenialDao(com.sadsha.cleansweep.data.db.CleanSweepDatabase database)" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>9</length>
@@ -428,8 +428,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/domain/bus/AppLifeCycleEventBus.kt</file>
   <line>31</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.domain.bus</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.domain.bus.AppLifecycleEventBus AppLifecycleEventBus()" />
+  <package>com.sadsha.cleansweep.domain.bus</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.domain.bus.AppLifecycleEventBus AppLifecycleEventBus()" />
   <language>kotlin</language>
   <offset>27</offset>
   <length>21</length>
@@ -445,8 +445,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/domain/bus/FolderUpdateEventBus.kt</file>
   <line>66</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.domain.bus</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.domain.bus.FolderUpdateEventBus FolderUpdateEventBus()" />
+  <package>com.sadsha.cleansweep.domain.bus</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.domain.bus.FolderUpdateEventBus FolderUpdateEventBus()" />
   <language>kotlin</language>
   <offset>27</offset>
   <length>21</length>
@@ -462,8 +462,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/domain/repository/DuplicatesRepository.kt</file>
   <line>55</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.domain.repository</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.domain.repository.DuplicatesRepository DuplicatesRepository(android.content.Context context, com.cleansweep.data.db.dao.UnreadableFileCacheDao unreadableFileCacheDao, com.cleansweep.data.db.dao.ScanResultCacheDao scanResultCacheDao, com.cleansweep.data.db.dao.SimilarityDenialDao similarityDenialDao)" />
+  <package>com.sadsha.cleansweep.domain.repository</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.domain.repository.DuplicatesRepository DuplicatesRepository(android.content.Context context, com.sadsha.cleansweep.data.db.dao.UnreadableFileCacheDao unreadableFileCacheDao, com.sadsha.cleansweep.data.db.dao.ScanResultCacheDao scanResultCacheDao, com.sadsha.cleansweep.data.db.dao.SimilarityDenialDao similarityDenialDao)" />
   <language>kotlin</language>
   <offset>27</offset>
   <length>20</length>
@@ -479,8 +479,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/domain/usecase/DuplicateFinderUseCase.kt</file>
   <line>37</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.domain.usecase</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.domain.usecase.DuplicateFinderUseCase DuplicateFinderUseCase(android.content.Context context, com.cleansweep.data.db.dao.FileSignatureDao fileSignatureDao)" />
+  <package>com.sadsha.cleansweep.domain.usecase</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.domain.usecase.DuplicateFinderUseCase DuplicateFinderUseCase(android.content.Context context, com.sadsha.cleansweep.data.db.dao.FileSignatureDao fileSignatureDao)" />
   <language>kotlin</language>
   <offset>29</offset>
   <length>20</length>
@@ -496,8 +496,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/domain/usecase/SimilarFinderUseCase.kt</file>
   <line>48</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.domain.usecase</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.domain.usecase.SimilarFinderUseCase SimilarFinderUseCase(android.content.Context context, com.cleansweep.data.db.dao.PHashDao pHashDao, com.cleansweep.data.repository.PreferencesRepository preferencesRepository, com.cleansweep.domain.repository.DuplicatesRepository duplicatesRepository)" />
+  <package>com.sadsha.cleansweep.domain.usecase</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.domain.usecase.SimilarFinderUseCase SimilarFinderUseCase(android.content.Context context, com.sadsha.cleansweep.data.db.dao.PHashDao pHashDao, com.sadsha.cleansweep.data.repository.PreferencesRepository preferencesRepository, com.sadsha.cleansweep.domain.repository.DuplicatesRepository duplicatesRepository)" />
   <language>kotlin</language>
   <offset>27</offset>
   <length>20</length>
@@ -513,8 +513,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/service/DuplicateScanService.kt</file>
   <line>61</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.service</package>
-  <entry_point TYPE="class" FQNAME="com.cleansweep.service.DuplicateScanService" />
+  <package>com.sadsha.cleansweep.service</package>
+  <entry_point TYPE="class" FQNAME="com.sadsha.cleansweep.service.DuplicateScanService" />
   <language>kotlin</language>
   <offset>0</offset>
   <length>18</length>
@@ -530,8 +530,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/service/DuplicateScanService.kt</file>
   <line>64</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.service</package>
-  <entry_point TYPE="field" FQNAME="com.cleansweep.service.DuplicateScanService stateHolder" />
+  <package>com.sadsha.cleansweep.service</package>
+  <entry_point TYPE="field" FQNAME="com.sadsha.cleansweep.service.DuplicateScanService stateHolder" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>7</length>
@@ -547,8 +547,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/service/DuplicateScanService.kt</file>
   <line>66</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.service</package>
-  <entry_point TYPE="field" FQNAME="com.cleansweep.service.DuplicateScanService duplicateFinderUseCase" />
+  <package>com.sadsha.cleansweep.service</package>
+  <entry_point TYPE="field" FQNAME="com.sadsha.cleansweep.service.DuplicateScanService duplicateFinderUseCase" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>7</length>
@@ -564,8 +564,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/service/DuplicateScanService.kt</file>
   <line>68</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.service</package>
-  <entry_point TYPE="field" FQNAME="com.cleansweep.service.DuplicateScanService similarFinderUseCase" />
+  <package>com.sadsha.cleansweep.service</package>
+  <entry_point TYPE="field" FQNAME="com.sadsha.cleansweep.service.DuplicateScanService similarFinderUseCase" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>7</length>
@@ -581,8 +581,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/service/DuplicateScanService.kt</file>
   <line>70</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.service</package>
-  <entry_point TYPE="field" FQNAME="com.cleansweep.service.DuplicateScanService duplicatesRepository" />
+  <package>com.sadsha.cleansweep.service</package>
+  <entry_point TYPE="field" FQNAME="com.sadsha.cleansweep.service.DuplicateScanService duplicatesRepository" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>7</length>
@@ -598,8 +598,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/service/DuplicateScanService.kt</file>
   <line>72</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.service</package>
-  <entry_point TYPE="field" FQNAME="com.cleansweep.service.DuplicateScanService mediaRepository" />
+  <package>com.sadsha.cleansweep.service</package>
+  <entry_point TYPE="field" FQNAME="com.sadsha.cleansweep.service.DuplicateScanService mediaRepository" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>7</length>
@@ -615,8 +615,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/service/DuplicateScanService.kt</file>
   <line>74</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.service</package>
-  <entry_point TYPE="field" FQNAME="com.cleansweep.service.DuplicateScanService preferencesRepository" />
+  <package>com.sadsha.cleansweep.service</package>
+  <entry_point TYPE="field" FQNAME="com.sadsha.cleansweep.service.DuplicateScanService preferencesRepository" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>7</length>
@@ -632,8 +632,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/service/DuplicateScanStateHolder.kt</file>
   <line>50</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.service</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.service.DuplicateScanStateHolder DuplicateScanStateHolder()" />
+  <package>com.sadsha.cleansweep.service</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.service.DuplicateScanStateHolder DuplicateScanStateHolder()" />
   <language>kotlin</language>
   <offset>31</offset>
   <length>21</length>
@@ -649,8 +649,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/ui/BaseActivity.kt</file>
   <line>24</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.ui</package>
-  <entry_point TYPE="class" FQNAME="com.cleansweep.ui.BaseActivity" />
+  <package>com.sadsha.cleansweep.ui</package>
+  <entry_point TYPE="class" FQNAME="com.sadsha.cleansweep.ui.BaseActivity" />
   <language>kotlin</language>
   <offset>0</offset>
   <length>18</length>
@@ -666,8 +666,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/ui/MainActivity.kt</file>
   <line>41</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.ui</package>
-  <entry_point TYPE="class" FQNAME="com.cleansweep.ui.MainActivity" />
+  <package>com.sadsha.cleansweep.ui</package>
+  <entry_point TYPE="class" FQNAME="com.sadsha.cleansweep.ui.MainActivity" />
   <language>kotlin</language>
   <offset>0</offset>
   <length>18</length>
@@ -683,8 +683,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/ui/MainActivity.kt</file>
   <line>44</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.ui</package>
-  <entry_point TYPE="field" FQNAME="com.cleansweep.ui.MainActivity proactiveIndexer" />
+  <package>com.sadsha.cleansweep.ui</package>
+  <entry_point TYPE="field" FQNAME="com.sadsha.cleansweep.ui.MainActivity proactiveIndexer" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>7</length>
@@ -700,8 +700,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/ui/MainViewModel.kt</file>
   <line>38</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.ui</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.ui.MainViewModel MainViewModel(com.cleansweep.data.repository.PreferencesRepository preferencesRepository, com.cleansweep.domain.repository.MediaRepository mediaRepository, com.cleansweep.domain.bus.AppLifecycleEventBus appLifecycleEventBus)" />
+  <package>com.sadsha.cleansweep.ui</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.ui.MainViewModel MainViewModel(com.sadsha.cleansweep.data.repository.PreferencesRepository preferencesRepository, com.sadsha.cleansweep.domain.repository.MediaRepository mediaRepository, com.sadsha.cleansweep.domain.bus.AppLifecycleEventBus appLifecycleEventBus)" />
   <language>kotlin</language>
   <offset>20</offset>
   <length>20</length>
@@ -717,8 +717,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/ui/components/FolderSearchManager.kt</file>
   <line>46</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.ui.components</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.ui.components.FolderSearchManager FolderSearchManager(com.cleansweep.domain.repository.MediaRepository mediaRepository)" />
+  <package>com.sadsha.cleansweep.ui.components</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.ui.components.FolderSearchManager FolderSearchManager(com.sadsha.cleansweep.domain.repository.MediaRepository mediaRepository)" />
   <language>kotlin</language>
   <offset>26</offset>
   <length>20</length>
@@ -734,8 +734,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/ui/screens/duplicates/DuplicatesViewModel.kt</file>
   <line>111</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.ui.screens.duplicates</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.ui.screens.duplicates.DuplicatesViewModel DuplicatesViewModel(android.content.Context context, com.cleansweep.domain.repository.MediaRepository mediaRepository, com.cleansweep.domain.repository.DuplicatesRepository duplicatesRepository, com.cleansweep.data.repository.PreferencesRepository preferencesRepository, com.cleansweep.service.DuplicateScanStateHolder stateHolder, com.cleansweep.domain.bus.FileModificationEventBus eventBus, com.cleansweep.domain.bus.FolderUpdateEventBus folderUpdateEventBus, com.cleansweep.util.CoilPreloader coilPreloader)" />
+  <package>com.sadsha.cleansweep.ui.screens.duplicates</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.ui.screens.duplicates.DuplicatesViewModel DuplicatesViewModel(android.content.Context context, com.sadsha.cleansweep.domain.repository.MediaRepository mediaRepository, com.sadsha.cleansweep.domain.repository.DuplicatesRepository duplicatesRepository, com.sadsha.cleansweep.data.repository.PreferencesRepository preferencesRepository, com.sadsha.cleansweep.service.DuplicateScanStateHolder stateHolder, com.sadsha.cleansweep.domain.bus.FileModificationEventBus eventBus, com.sadsha.cleansweep.domain.bus.FolderUpdateEventBus folderUpdateEventBus, com.sadsha.cleansweep.util.CoilPreloader coilPreloader)" />
   <language>kotlin</language>
   <offset>26</offset>
   <length>20</length>
@@ -751,8 +751,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/ui/screens/onboarding/OnboardingViewModel.kt</file>
   <line>28</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.ui.screens.onboarding</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.ui.screens.onboarding.OnboardingViewModel OnboardingViewModel(com.cleansweep.data.repository.PreferencesRepository preferencesRepository)" />
+  <package>com.sadsha.cleansweep.ui.screens.onboarding</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.ui.screens.onboarding.OnboardingViewModel OnboardingViewModel(com.sadsha.cleansweep.data.repository.PreferencesRepository preferencesRepository)" />
   <language>kotlin</language>
   <offset>26</offset>
   <length>20</length>
@@ -768,8 +768,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/ui/screens/session/SessionSetupViewModel.kt</file>
   <line>92</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.ui.screens.session</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.ui.screens.session.SessionSetupViewModel SessionSetupViewModel(android.content.Context context, com.cleansweep.domain.repository.MediaRepository mediaRepository, com.cleansweep.data.repository.PreferencesRepository preferencesRepository, com.cleansweep.util.FileOperationsHelper fileOperationsHelper, com.cleansweep.domain.bus.FolderUpdateEventBus folderUpdateEventBus, com.cleansweep.ui.components.FolderSearchManager folderSearchManager, androidx.lifecycle.SavedStateHandle savedStateHandle)" />
+  <package>com.sadsha.cleansweep.ui.screens.session</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.ui.screens.session.SessionSetupViewModel SessionSetupViewModel(android.content.Context context, com.sadsha.cleansweep.domain.repository.MediaRepository mediaRepository, com.sadsha.cleansweep.data.repository.PreferencesRepository preferencesRepository, com.sadsha.cleansweep.util.FileOperationsHelper fileOperationsHelper, com.sadsha.cleansweep.domain.bus.FolderUpdateEventBus folderUpdateEventBus, com.sadsha.cleansweep.ui.components.FolderSearchManager folderSearchManager, androidx.lifecycle.SavedStateHandle savedStateHandle)" />
   <language>kotlin</language>
   <offset>28</offset>
   <length>20</length>
@@ -785,8 +785,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/ui/screens/settings/SettingsViewModel.kt</file>
   <line>97</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.ui.screens.settings</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.ui.screens.settings.SettingsViewModel SettingsViewModel(android.content.Context context, com.cleansweep.data.repository.PreferencesRepository preferencesRepository, com.cleansweep.domain.repository.MediaRepository mediaRepository, com.cleansweep.domain.repository.DuplicatesRepository duplicatesRepository, com.cleansweep.domain.usecase.SimilarFinderUseCase similarFinderUseCase, com.cleansweep.domain.bus.AppLifecycleEventBus appLifecycleEventBus, com.cleansweep.domain.bus.FolderUpdateEventBus folderUpdateEventBus, com.cleansweep.ui.components.FolderSearchManager folderSearchManager)" />
+  <package>com.sadsha.cleansweep.ui.screens.settings</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.ui.screens.settings.SettingsViewModel SettingsViewModel(android.content.Context context, com.sadsha.cleansweep.data.repository.PreferencesRepository preferencesRepository, com.sadsha.cleansweep.domain.repository.MediaRepository mediaRepository, com.sadsha.cleansweep.domain.repository.DuplicatesRepository duplicatesRepository, com.sadsha.cleansweep.domain.usecase.SimilarFinderUseCase similarFinderUseCase, com.sadsha.cleansweep.domain.bus.AppLifecycleEventBus appLifecycleEventBus, com.sadsha.cleansweep.domain.bus.FolderUpdateEventBus folderUpdateEventBus, com.sadsha.cleansweep.ui.components.FolderSearchManager folderSearchManager)" />
   <language>kotlin</language>
   <offset>24</offset>
   <length>20</length>
@@ -802,8 +802,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/ui/screens/swiper/SwiperViewModel.kt</file>
   <line>94</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.ui.screens.swiper</package>
-  <entry_point TYPE="class" FQNAME="com.cleansweep.ui.screens.swiper.PendingChange" />
+  <package>com.sadsha.cleansweep.ui.screens.swiper</package>
+  <entry_point TYPE="class" FQNAME="com.sadsha.cleansweep.ui.screens.swiper.PendingChange" />
   <language>kotlin</language>
   <offset>0</offset>
   <length>10</length>
@@ -819,8 +819,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/ui/screens/swiper/SwiperViewModel.kt</file>
   <line>157</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.ui.screens.swiper</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.ui.screens.swiper.SwiperViewModel SwiperViewModel(android.content.Context context, com.cleansweep.domain.repository.MediaRepository mediaRepository, com.cleansweep.data.repository.PreferencesRepository preferencesRepository, com.cleansweep.util.FileOperationsHelper fileOperationsHelper, com.cleansweep.util.ThumbnailPrewarmer thumbnailPrewarmer, com.cleansweep.util.CoilPreloader coilPreloader, androidx.lifecycle.SavedStateHandle savedStateHandle, coil.ImageLoader imageLoader, coil.ImageLoader gifImageLoader, com.cleansweep.domain.bus.FileModificationEventBus eventBus, com.cleansweep.domain.bus.AppLifecycleEventBus appLifecycleEventBus, com.cleansweep.domain.bus.FolderUpdateEventBus folderUpdateEventBus, com.cleansweep.ui.components.FolderSearchManager folderSearchManager)" />
+  <package>com.sadsha.cleansweep.ui.screens.swiper</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.ui.screens.swiper.SwiperViewModel SwiperViewModel(android.content.Context context, com.sadsha.cleansweep.domain.repository.MediaRepository mediaRepository, com.sadsha.cleansweep.data.repository.PreferencesRepository preferencesRepository, com.sadsha.cleansweep.util.FileOperationsHelper fileOperationsHelper, com.sadsha.cleansweep.util.ThumbnailPrewarmer thumbnailPrewarmer, com.sadsha.cleansweep.util.CoilPreloader coilPreloader, androidx.lifecycle.SavedStateHandle savedStateHandle, coil.ImageLoader imageLoader, coil.ImageLoader gifImageLoader, com.sadsha.cleansweep.domain.bus.FileModificationEventBus eventBus, com.sadsha.cleansweep.domain.bus.AppLifecycleEventBus appLifecycleEventBus, com.sadsha.cleansweep.domain.bus.FolderUpdateEventBus folderUpdateEventBus, com.sadsha.cleansweep.ui.components.FolderSearchManager folderSearchManager)" />
   <language>kotlin</language>
   <offset>22</offset>
   <length>20</length>
@@ -836,8 +836,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/ui/screens/swiper/SwiperViewModel.kt</file>
   <line>1538</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.ui.screens.swiper</package>
-  <entry_point TYPE="class" FQNAME="com.cleansweep.ui.screens.swiper.SwiperAction" />
+  <package>com.sadsha.cleansweep.ui.screens.swiper</package>
+  <entry_point TYPE="class" FQNAME="com.sadsha.cleansweep.ui.screens.swiper.SwiperAction" />
   <language>kotlin</language>
   <offset>0</offset>
   <length>10</length>
@@ -853,8 +853,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/ui/screens/swiper/SwiperViewModel.kt</file>
   <line>1540</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.ui.screens.swiper</package>
-  <entry_point TYPE="class" FQNAME="com.cleansweep.ui.screens.swiper.SwiperAction.Keep" />
+  <package>com.sadsha.cleansweep.ui.screens.swiper</package>
+  <entry_point TYPE="class" FQNAME="com.sadsha.cleansweep.ui.screens.swiper.SwiperAction.Keep" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>10</length>
@@ -870,8 +870,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/ui/screens/swiper/SwiperViewModel.kt</file>
   <line>1542</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.ui.screens.swiper</package>
-  <entry_point TYPE="class" FQNAME="com.cleansweep.ui.screens.swiper.SwiperAction.Delete" />
+  <package>com.sadsha.cleansweep.ui.screens.swiper</package>
+  <entry_point TYPE="class" FQNAME="com.sadsha.cleansweep.ui.screens.swiper.SwiperAction.Delete" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>10</length>
@@ -887,8 +887,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/ui/screens/swiper/SwiperViewModel.kt</file>
   <line>1544</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.ui.screens.swiper</package>
-  <entry_point TYPE="class" FQNAME="com.cleansweep.ui.screens.swiper.SwiperAction.Move" />
+  <package>com.sadsha.cleansweep.ui.screens.swiper</package>
+  <entry_point TYPE="class" FQNAME="com.sadsha.cleansweep.ui.screens.swiper.SwiperAction.Move" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>10</length>
@@ -904,8 +904,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/ui/screens/swiper/SwiperViewModel.kt</file>
   <line>1546</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.ui.screens.swiper</package>
-  <entry_point TYPE="class" FQNAME="com.cleansweep.ui.screens.swiper.SwiperAction.Screenshot" />
+  <package>com.sadsha.cleansweep.ui.screens.swiper</package>
+  <entry_point TYPE="class" FQNAME="com.sadsha.cleansweep.ui.screens.swiper.SwiperAction.Screenshot" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>10</length>
@@ -921,8 +921,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/ui/screens/swiper/SwiperViewModel.kt</file>
   <line>1548</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.ui.screens.swiper</package>
-  <entry_point TYPE="class" FQNAME="com.cleansweep.ui.screens.swiper.SwiperAction.ScreenshotAndDelete" />
+  <package>com.sadsha.cleansweep.ui.screens.swiper</package>
+  <entry_point TYPE="class" FQNAME="com.sadsha.cleansweep.ui.screens.swiper.SwiperAction.ScreenshotAndDelete" />
   <language>kotlin</language>
   <offset>4</offset>
   <length>10</length>
@@ -938,8 +938,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/util/CoilPreloader.kt</file>
   <line>37</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.util</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.util.CoilPreloader CoilPreloader(android.content.Context context, coil.ImageLoader imageLoader)" />
+  <package>com.sadsha.cleansweep.util</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.util.CoilPreloader CoilPreloader(android.content.Context context, coil.ImageLoader imageLoader)" />
   <language>kotlin</language>
   <offset>20</offset>
   <length>20</length>
@@ -955,8 +955,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/util/FileOperationsHelper.kt</file>
   <line>40</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.util</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.util.FileOperationsHelper FileOperationsHelper(android.content.Context context)" />
+  <package>com.sadsha.cleansweep.util</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.util.FileOperationsHelper FileOperationsHelper(android.content.Context context)" />
   <language>kotlin</language>
   <offset>27</offset>
   <length>20</length>
@@ -972,8 +972,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/util/ThumbnailPrewarmer.kt</file>
   <line>32</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.util</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.util.ThumbnailPrewarmer ThumbnailPrewarmer(android.content.Context context, com.cleansweep.domain.repository.MediaRepository mediaRepository)" />
+  <package>com.sadsha.cleansweep.util</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.util.ThumbnailPrewarmer ThumbnailPrewarmer(android.content.Context context, com.sadsha.cleansweep.domain.repository.MediaRepository mediaRepository)" />
   <language>kotlin</language>
   <offset>25</offset>
   <length>20</length>
@@ -989,8 +989,8 @@
   <file>file://$PROJECT_DIR$/app/src/main/java/com/sadsha/cleansweep/work/ProactiveIndexingWorker.kt</file>
   <line>33</line>
   <module>sadsha-cleansweep.app.main</module>
-  <package>com.cleansweep.work</package>
-  <entry_point TYPE="method" FQNAME="com.cleansweep.work.ProactiveIndexingWorker ProactiveIndexingWorker(android.content.Context appContext, androidx.work.WorkerParameters workerParams, com.cleansweep.domain.repository.MediaRepository mediaRepository, com.cleansweep.util.ThumbnailPrewarmer thumbnailPrewarmer)" />
+  <package>com.sadsha.cleansweep.work</package>
+  <entry_point TYPE="method" FQNAME="com.sadsha.cleansweep.work.ProactiveIndexingWorker ProactiveIndexingWorker(android.content.Context appContext, androidx.work.WorkerParameters workerParams, com.sadsha.cleansweep.domain.repository.MediaRepository mediaRepository, com.sadsha.cleansweep.util.ThumbnailPrewarmer thumbnailPrewarmer)" />
   <language>kotlin</language>
   <offset>30</offset>
   <length>28</length>
